@@ -11,9 +11,9 @@ or any market/assert class movement
 -matplotlib
 -pandas
 
-# Note
+#### Note
 
-USe your own test dataset, preferably one that is of recent market movement
+Use your own test dataset, preferably one that is of recent market movement
 
 ## Acknowledgments
 
