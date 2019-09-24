@@ -13,7 +13,7 @@ Metatrader 4 platform
 MQl editor IDE
 SuperStoch indicator
 
-##Installing
+# Installing
 
 ```
 Open any trading Metatrader 4 platform
